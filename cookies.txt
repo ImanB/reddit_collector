@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: reddit_session="18369550%2C2013-04-03T13%3A23%3A47%2Ca804efdde063bad28ec96037b298071a6aedc847"; path="/"; domain=".reddit.com"; path_spec; discard; HttpOnly=None; version=0
