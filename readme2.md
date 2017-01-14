@@ -1,11 +1,3 @@
-This is a Reddit data collector that you can collect data from different subreddits based on key word.
-
-
-
-
-
-
-
 reddiwrap
 reddiwrap is a python wrapper for communicating with the reddit.com API.
 
